@@ -6,7 +6,7 @@
     "Benoit Jehanno <b.jehanno@criteo.com>"
   ],
   "keywords": [
-    "feed"
+    "font"
   ],
   "license": "MIT",
   "ignore": [
@@ -17,7 +17,8 @@
     "test",
     "tests"
   ],
-  "dependencies": {
+  "devDependencies": {
     "jQuery": "~2.1.3"
-  }
+  },
+  "dependencies": {}
 }
